@@ -1,5 +1,7 @@
 Hydrogen@2.5.0
 advanced-open-file@0.16.8
+atom-beautify@0.32.5
+atom-bracket-highlight@0.3.2
 atom-clock@0.1.16
 atom-elixir@0.2.3
 atom-ide-ui@0.12.0
@@ -7,12 +9,14 @@ autocomplete@0.47.0
 autocomplete-python@1.10.5
 battery-status@0.11.7
 custom-title@1.0.1
+fancy-bracket-matcher@2.1.0
 file-icons@2.1.21
 file-types@0.5.5
 highlight-selected@0.13.1
 ide-json@0.2.1
 ide-python@1.0.0
 ide-ruby@0.1.10
+ide-rust@0.17.0
 ide-scala@0.7.0
 ide-typescript@0.7.6
 ide-yaml@0.4.3
@@ -20,9 +24,10 @@ language-cassandra-cql@0.1.2
 language-docker@1.1.8
 language-elixir@0.22.0
 language-groovy@0.7.0
+language-rust@0.4.12
 language-scala@1.1.9
 language-terraform@0.8.1
-linter-ruby@1.2.6
+linter@2.2.0
 linter-write-good@0.9.0
 minimap@4.29.8
 minimap-cursorline@0.2.0
